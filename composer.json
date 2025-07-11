@@ -1,0 +1,5 @@
+{
+  "name": "renny/telegram-bot",
+  "description": "Telegram bot en PHP para Render",
+  "require": {}
+}
